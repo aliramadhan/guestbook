@@ -21,4 +21,4 @@ https://github.com/aliramadhan/guestbook.git
 
 # akses web menggunakan ip yang diperoleh ketika run 'php artisan serve' (127.0.0.1:8000)
 
-# login menggunakan email : test@example.com dan password : qweqwe
+# login menggunakan email : test@example.com dan password : qweqweqwe
